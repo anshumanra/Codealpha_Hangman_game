@@ -1,7 +1,7 @@
 import random
 
 def choose_word(level):
-    easy_words = ['apple', 'banana', 'orange', 'chair', 'table', 'jump', 'tree', 'house', 'smile', 'happy', 'color', 'music', 'friend', 'water', 'cloud', 'watch', 'learn', 'dance', 'story', 'world', 'flower', 'summer', 'winter', 'pencil', 'picnic', 'party', 'laugh', 'dream', 'light', 'beach', 'build', 'swing', 'slide', 'candy', 'puppy', 'kitten', 'train', 'truck', 'bike', 'plane', 'sleep', 'star', 'moon', 'love', 'sing', 'read', 'draw', 'paint', 'cook', 'bake', 'swim', 'play', 'game']
+    easy_words = ['apple', 'banana', 'orange', 'chair', 'table', 'jump', 'tree', 'house', 'smile', 'happy', 'color', 'music', 'friend', 'water', 'cloud', 'watch', 'learn', 'dance', 'story', 'world', 'flower', 'summer', 'winter', 'pencil', 'picnic', 'party', 'part', 'laugh', 'dream', 'light', 'beach', 'build', 'swing', 'slide', 'candy', 'puppy', 'kitten', 'train', 'truck', 'bike', 'plane', 'sleep', 'star', 'moon', 'love', 'sing', 'read', 'draw', 'paint', 'cook', 'bake', 'swim', 'play', 'game']
     medium_words = ['python', 'window', 'rainbow', 'blanket', 'picture', 'present', 'bicycle', 'dolphin', 'pumpkin', 'spider', 'cowboy', 'secret', 'rocket', 'island', 'forest', 'garden', 'button', 'pocket', 'shadow', 'puzzle', 'bubble', 'robot', 'pillow', 'turtle', 'dragon', 'castle', 'pirate', 'parrot', 'monkey', 'orange', 'purple']
     hard_words = ['butterfly', 'elephant', 'dinosaur', 'volcano', 'umbrella', 'alligator', 'computer', 'airplane', 'surprise', 'vacation', 'lemonade', 'sunglasses', 'basketball', 'adventure', 'celebrate', 'remember', 'whisper', 'imagine', 'treasure', 'invisible', 'question', 'tomorrow', 'yesterday', 'important', 'different', 'beautiful', 'wonderful', 'amazing', 'delicious', 'impossible']
 
